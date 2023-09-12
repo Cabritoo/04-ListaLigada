@@ -1,6 +1,9 @@
 # Lista Ligada
 ---
 
+Diego de Freitas Guaglianone
+diego.guaglianone@fatec.sp.gov.br
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos:
